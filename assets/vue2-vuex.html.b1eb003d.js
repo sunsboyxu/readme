@@ -1,0 +1,1 @@
+import{o as e,a as r,b as t,e as o}from"./app.a602c81b.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"vue-router-vue2",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#vue-router-vue2","aria-hidden":"true"},"#",-1),n=o(" vue-router\uFF08vue2\uFF09"),u=[_,n];function d(i,h){return e(),r("h1",c,u)}var f=a(s,[["render",d]]);export{f as default};
