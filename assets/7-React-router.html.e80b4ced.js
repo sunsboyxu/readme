@@ -1,0 +1,1 @@
+const t={key:"v-4a169436",path:"/webs/react/7-React-router.html",title:"React-router",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"webs/react/7-React-router.md"};export{t as data};

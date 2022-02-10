@@ -1,0 +1,1 @@
+const t={key:"v-214a05f4",path:"/webs/react/Umijs.html",title:"\u73AF\u5883\u8981\u6C42",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"webs/react/Umijs.md"};export{t as data};

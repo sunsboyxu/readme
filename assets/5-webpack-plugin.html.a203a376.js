@@ -1,0 +1,1 @@
+const e={key:"v-78ab72b5",path:"/webs/webpack/5-webpack-plugin.html",title:"webpack plugins",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"webs/webpack/5-webpack-plugin.md"};export{e as data};

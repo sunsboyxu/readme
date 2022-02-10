@@ -1,0 +1,1 @@
+const e={key:"v-2862c21e",path:"/webs/react/6-React-redux.html",title:"React-redux",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"webs/react/6-React-redux.md"};export{e as data};

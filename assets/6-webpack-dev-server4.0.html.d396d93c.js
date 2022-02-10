@@ -1,0 +1,1 @@
+const e={key:"v-d4447424",path:"/webs/webpack/6-webpack-dev-server4.0.html",title:"webpack-dev-server",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"webs/webpack/6-webpack-dev-server4.0.md"};export{e as data};

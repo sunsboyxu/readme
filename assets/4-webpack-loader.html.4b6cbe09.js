@@ -1,0 +1,1 @@
+const e={key:"v-5b9a4854",path:"/webs/webpack/4-webpack-loader.html",title:"Webpack Loader",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5904\u7406 .css \u6587\u4EF6",slug:"\u5904\u7406-css-\u6587\u4EF6",children:[]}],git:{},filePathRelative:"webs/webpack/4-webpack-loader.md"};export{e as data};
